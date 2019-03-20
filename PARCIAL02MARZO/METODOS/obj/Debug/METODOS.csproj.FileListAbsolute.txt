@@ -1,0 +1,4 @@
+C:\Users\Lab3\Desktop\PARCIAL02MARZO\METODOS\bin\Debug\METODOS.dll
+C:\Users\Lab3\Desktop\PARCIAL02MARZO\METODOS\bin\Debug\METODOS.pdb
+C:\Users\Lab3\Desktop\PARCIAL02MARZO\METODOS\obj\Debug\METODOS.dll
+C:\Users\Lab3\Desktop\PARCIAL02MARZO\METODOS\obj\Debug\METODOS.pdb
